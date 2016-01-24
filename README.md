@@ -1,2 +1,3 @@
-# semi-auto-facebook-activity-delete
-Open Activity Log, click red delete button. Stuck? Scroll down.
+# Semi-automatic Facebook Activity Delete
+
+see official details at [GreasyFork](https://greasyfork.org/en/scripts/16507-semi-automatic-facebook-activity-delete)
